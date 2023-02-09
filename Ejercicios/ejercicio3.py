@@ -1,7 +1,7 @@
 if __name__ == "__main__":
     import random
-    List=[]
+    list=[]
     for i in range(10):
-        List.append(random.randint(0, 250))
-    print(List)
+        list.append(random.randint(0, 250))
+    print(list)
 
